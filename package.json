@@ -1,14 +1,22 @@
 {
-  "name": "resume",
+  "name": "MalikWashington-resume",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "bin": {
-    "resume-me": "./index.js"
+    "resume-me": "index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/malikwashington/resume.git"
+  },
+  "bugs": {
+    "url": "https://github.com/malikwashington/resume/issues"
+  },
+  "homepage": "https://github.com/malikwashington/resume#readme",
+  "description": ""
 }
